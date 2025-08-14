@@ -1,10 +1,10 @@
-**Job Requisition: Creative DevOps Engineer**
+**Job Requisition: Digital Quartermaster
 
 _This is a live requisition. We are looking for the first member of our technical staff. This is not just a job; it is a role in an ongoing narrative. If you don't understand what that means, this is not the role for you._
 
 **Role / Title**
 
-Creative DevOps Engineer
+Digital Quartermaster
 
 **Affiliation**
 
@@ -14,7 +14,7 @@ Project Mayhem / The FinTrade Corp Universe
 
 You've spent years in the trenches. You've configured CI/CD pipelines at 2 AM, you've written Terraform scripts to automate away your own job, and you've seen firsthand how a single, misconfigured webhook can bring a system to its knees. You are fluent in the language of YAML, APIs, and log files.
 
-But you're also disenfranchised. You're tired of using your powers for building meaningless features and serving on-call rotations for systems you know are fundamentally broken. You have a satirical streak, a love for intricate puzzles, and you believe that the best way to explain a complex system is to build a smaller, working model of it. You understand that sometimes, the most important information is hidden in the commit history.
+But you're also tired of using your powers for building meaningless features and serving on-call rotations for systems you know are fundamentally broken. You have a satirical streak, a love for intricate puzzles, and you believe that the best way to explain a complex system is to build a smaller, working model of it. You understand that sometimes, the most important information is hidden in the commit history.
 
 **Core Responsibilities (The "Narrative Function")**
 
